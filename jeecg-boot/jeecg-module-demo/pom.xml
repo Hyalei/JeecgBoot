@@ -16,6 +16,12 @@
             <groupId>org.jeecgframework.boot</groupId>
             <artifactId>jeecg-boot-base-core</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.jeecgframework.boot</groupId>
+            <artifactId>jeecg-module-erp-api</artifactId>
+            <version>3.7.0</version>
+        </dependency>
     </dependencies>
 
 </project>
